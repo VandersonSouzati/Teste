@@ -187,11 +187,14 @@ public class LerArquivos extends JFrame {
 
 
 
+/*****************************************/
     public void mensagemAux() {
 	    mensagem();
 	    dialog.dispose();  
 
     }
+/******************************************/
+
 
     public void mensagem() {        
         /*
