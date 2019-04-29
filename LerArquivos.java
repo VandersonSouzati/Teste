@@ -29,8 +29,6 @@ import javax.swing.JTextField;
 import javax.swing.SwingConstants;
 
 public class LerArquivos extends JFrame {
-
-	// static VerificaArquivo verificarArquivo = new VerificaArquivo();
 	private JTextField cxCaminho, cxArquivo, cxDia, cxHora, cxMinuto, cxUnidades;
 	private JLabel lbCaminho, lbArquivo, lbDia, lbHora, lbMinuto;
 	private JButton btnVerificar, btnSair;
