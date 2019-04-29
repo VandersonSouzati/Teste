@@ -197,15 +197,7 @@ public class LerArquivos extends JFrame {
 
 
     public void mensagem() {        
-        /*
-    	frame2.setLayout(null);
-        frame2.setBounds(100,200,300,200);
-        frame2.setVisible(true);
-        frame2.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
-        frame2.setResizable(false);
-        */
-    	
-        
+
         dialog.setLocationRelativeTo(frame2.getContentPane());
         //dialog.setModal(true);
         Dimension dimension = new Dimension();
