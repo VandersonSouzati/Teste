@@ -51,7 +51,7 @@ public class LerArquivos extends JFrame {
 
 		setLayout(null);
 		setBounds(100, 200, 450, 550);
-        setResizable(false);
+                setResizable(false);
 		setTitle("Verificar Arquivos");
 		btnVerificar = new JButton("Verificar");
 		areaTexto = new JTextArea(22, 40);
